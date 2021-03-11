@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "811657818257",
+    "project_id": "mymusicapp-4e6c9",
+    "storage_bucket": "mymusicapp-4e6c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811657818257:android:788714d3b9887dcf3acf30",
+        "android_client_info": {
+          "package_name": "com.kanikaratra.MyMusicApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811657818257-7e53ubhdf2dcsrtsge7p0mmjmt52t2g0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kanikaratra.MyMusicApp",
+            "certificate_hash": "0af2487bf6632b4e646ac8b68c1292f4d85a1abe"
+          }
+        },
+        {
+          "client_id": "811657818257-8c52dn2gakqco7mq5r5kmop72rtptss3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNHkK4cxEwSoFuw3huWuPOT41Xh-8kTsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811657818257-8c52dn2gakqco7mq5r5kmop72rtptss3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
