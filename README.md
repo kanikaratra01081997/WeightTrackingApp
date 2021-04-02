@@ -1,4 +1,4 @@
-# WeightTRackingApp
+# WeightTrackingApp
 
 A new Flutter project.
 
