@@ -1,4 +1,4 @@
-# MyMusicApp
+# WeightTRackingApp
 
 A new Flutter project.
 
